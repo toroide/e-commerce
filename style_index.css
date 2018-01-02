@@ -1,0 +1,13 @@
+#searchbar {
+	margin-top: 70px;
+}
+
+#shirts {
+	margin-top: 20px;
+}
+
+@media (max-width: 992px) {
+	#carrusel {
+		margin-top: 20px;
+	}
+}
